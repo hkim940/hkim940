@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! My name is Hyun Hee (Clara) Kim &nbsp; :computer:  :moon:
 
-<!--
-**hkim940/hkim940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **web developer / User Experience Designer** who is passionate about developing application that focuses on user-experience. My goal is to design and develop a simple and sophisticated application that communicates to users across multiple discipline. 
 
-Here are some ideas to get you started:
+# Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330"></span>
+<span><img src="https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></span>
+
+<!-- 
+  Badge Icon created with shields.io (https://shields.io/) & simpleicons (https://simpleicons.org/)
+
+  -->
